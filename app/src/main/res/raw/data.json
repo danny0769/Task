@@ -1,0 +1,81 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which country won the 2018 FIFA World Cup?",
+      "options": [
+        "Germany",
+        "Spain",
+        "France",
+        "Brazil"
+      ],
+      "answer": "France"
+    },
+    {
+      "id": 2,
+      "question": "Who is the all-time top scorer in the UEFA Champions League?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Neymar Jr.",
+        "Robert Lewandowski"
+      ],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 3,
+      "question": "Which football club has won the most UEFA Champions League titles?",
+      "options": [
+        "Real Madrid",
+        "Barcelona",
+        "Manchester United",
+        "Liverpool"
+      ],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": 4,
+      "question": "Who won the Ballon d'Or award in 2021?",
+      "options": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Robert Lewandowski",
+        "Neymar Jr."
+      ],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 5,
+      "question": "Which team won the first ever FIFA World Cup in 1930?",
+      "options": [
+        "Brazil",
+        "Uruguay",
+        "Argentina",
+        "Germany"
+      ],
+      "answer": "Uruguay"
+    },
+    {
+      "id": 6,
+      "question": "Which player won the Golden Boot award in the 2018 FIFA World Cup?",
+      "options": [
+        "Harry Kane",
+        "Kylian Mbappe",
+        "Luka Modric",
+        "Cristiano Ronaldo"
+      ],
+      "answer": "Harry Kane"
+    },
+    {
+      "id": 7,
+      "question": "Which football club has won the most English Premier League titles?",
+      "options": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Chelsea"
+      ],
+      "answer": "Manchester United"
+    }
+  ]
+}
